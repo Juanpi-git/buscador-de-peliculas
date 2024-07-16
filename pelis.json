@@ -1,0 +1,23 @@
+[
+    {
+        "title": "The fight club",
+        "rating": 9,
+        "tags": ["Action", "Suspense", "Thriller", "Psyco"]
+    },
+    {
+        "title": "The dark knight",
+        "rating": 8.5,
+        "tags": ["Action", "Crime", "Drama", "Suspense"]
+    },
+    {
+        "title": "Titanic 2",
+        "rating": 3,
+        "tags": ["Disaster", "Suspense"]
+    },
+    {
+        "title": "Life",
+        "rating": 6,
+        "tags": ["Fiction", "Terror", "Drama", "Action", "Suspense"]
+
+    }
+]
